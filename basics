@@ -1,1 +1,7 @@
+Kubernetes:
+- An orchestrator  tool which deploy , manage and  scale containerize application.
+- Developed by the Google.
+- k8s cluster has Master (control plan) and worker node architeture.
+
+
 
